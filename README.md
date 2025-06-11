@@ -1,5 +1,5 @@
 # Stolen-Vehicle-Analysis
-'''sql
+```sql
 SELECT name
 FROM first_name
-'''
+```
