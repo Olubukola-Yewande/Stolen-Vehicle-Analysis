@@ -7,6 +7,7 @@
 <h3>Tools Used for the Analysis</h3>
 
 <h3>The Analysis</h3>
+
 ```sql
 SELECT name
 FROM first_name
